@@ -1,2 +1,2 @@
 # hello-world
-This is just a newby repository to test github
+My name is ruslan. i just created a github account to learn about the amazing version control system. github.
